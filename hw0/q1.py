@@ -16,5 +16,5 @@ for ele in lst[:-1]:
     fout.write('%s,' % ele)
     #print '%s,' % ele,; sys.stdout.softspace = False;
 fout.write(str(lst[-1]))
-
+fout.close()
 
