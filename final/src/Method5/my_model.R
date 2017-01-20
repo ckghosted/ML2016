@@ -58,7 +58,7 @@ tag_prob <- data.frame(word = phy.df$word,
                        prob = pred.prob[,2],
                        noun_ratio = phy.df$ratio_noun)
 ## Write the result
-#write.csv(tag_prob, "./physics_prob.csv", row.names = F)
+write.csv(tag_prob, "./physics_prob.csv", row.names = F)
 ## Check the feature importance:
 print(importance(rf.fit)[,3])
 
