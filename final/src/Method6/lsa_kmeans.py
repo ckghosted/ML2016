@@ -18,8 +18,8 @@ import csv
 ## out_old: original output
 ## out_new: new output
 ## nb_cluster: number of clusters
-target = 'test.csv'
-out_old = 'test_est.csv'
+target = sys.argv[1]
+out_old = sys.argv[2]
 nb_cluster = 500
 corpus_pd = pd.read_csv(target)
 

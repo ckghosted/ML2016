@@ -5,10 +5,10 @@ from nltk import FreqDist
 import csv
 import operator
 
-target = 'test.csv'
+target = sys.argv[1]
 corpus_pd = pd.read_csv(target)
 ids = corpus_pd.id.values.tolist()
-out_old = 'test_est.csv'
+out_old = sys.argv[2]
 corpus_est = pd.read_csv(out_old)
 tags_est = corpus_est.tags.values.tolist()
 
@@ -62,7 +62,8 @@ corpus_common_tags_backup = corpus_common_tags
 corpus_common_tags = corpus_common_tags_backup
 
 ## Write new output
-output_fh = open('test_est2.csv','w')
+out_new = out_old.split('_')[0] + '_est3.csv'
+output_fh = open(out_new,'w')
 writer = csv.writer(output_fh, quoting = csv.QUOTE_ALL)
 writer.writerow(['id','tags'])
 for i in xrange(len(tags_est)):
