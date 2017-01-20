@@ -1,0 +1,798 @@
+"id","title","content"
+"1","What is spin as it relates to subatomic particles?","<p>I often hear about subatomic particles having a property called ""spin"" but also that it doesn't actually relate to spinning about an axis like you would think. Which particles have spin? What does spin mean if not an actual spinning motion?</p>
+"
+"2","What is your simplest explanation of the string theory?","<p>How would you explain string theory to non physicists such as myself? I'm specially interested on how plausible is it and what is needed to successfully prove it?</p>
+"
+"3","Lie theory, Representations and particle physics","<p>This is a question that has been posted at many different forums, I thought maybe someone here would have a better or more conceptual answer than I have seen before:</p>
+
+<p>Why do physicists care about representations of Lie groups? For myself, when I think about a representation that means there is some sort of group acting on a vector space, what is the vector space that this Lie group is acting on? </p>
+
+<p>Or is it that certain things have to be invariant under a group action?
+maybe this is a dumb question, but i thought it might be a good start...</p>
+
+<p>To clarify, I am specifically thinking of the symmetry groups that people think about in relation to the standard model. I do not care why it might be a certain group, but more how we see the group acting, what is it acting on? etc.</p>
+"
+"7","Will Determinism be ever possible?","<p>What are the main problems that we need to solve to prove Laplace's determinism correct and overcome the Uncertainty principle?</p>
+"
+"9","Hamilton's Principle","<p>Hamilton's principle states that a dynamic system always follows a path such that its action integral is stationary (that is, maximum or minimum).</p>
+
+<p>Why should the action integral be stationary? On what basis did Hamilton state this principle?</p>
+"
+"13","What is sound and how is it produced?","<p>I've been using the term ""sound"" all my life, but I really have no clue as to what sound exactly is or how it is created. What is sound? How is it produced? Can it be measured?</p>
+"
+"15","What experiment would disprove string theory?","<p>I know that there's big controversy between two groups of physicists:</p>
+
+<ol>
+<li>those who support string theory (most of them, I think)</li>
+<li>and those who oppose it.</li>
+</ol>
+
+<p>One of the arguments of the second group is that there's no way to disprove the correctness of the string theory.</p>
+
+<p>So my question is if there's any defined experiment that would disprove string theory? </p>
+"
+"17","Why does the sky change color? Why the sky is blue during the day, red during sunrise/set and black during the night?","<p>Why does the sky change color? Why the sky is blue during the day, red during sunrise/set and black during the night?</p>
+"
+"19","How's the energy of particle collisions calculated?","<p>Physicists often refer to the energy of collisions between different particles. My question is: how is that energy calculated? Is that kinetic energy?</p>
+
+<p>Also, related to this question, I know that the aim is to have higher and higher energy collisions (e.g to test for Higgs Boson). My understanding is that to have higher energy you can either accelerate them more, or use particles with higher mass. Is this correct?</p>
+"
+"21","Monte Carlo use","<p>Where is the Monte Carlo method used in physics?</p>
+"
+"24","Does leaning (banking) help cause turning on a bicycle?","<p>I think it's clear enough that if you turn your bicycle's steering wheel left, while moving, and you don't lean left, the bike will fall over (to the right) as you turn. I figure this is because the bike's momentum keeps it moving in the direction you were going, and since your wheels have friction against the ground, the top of the bike moves forward relative to the bottom of the wheels. The top of the bike going north while the bottom of the wheels go northwest will understandable cause you to topple.</p>
+
+<p>So to counteract this and keep you from falling over, leaning into the turn is necessary.</p>
+
+<p>But is there also a causal relationship -- that leaning will <strong>cause</strong> the bike to start to turn? If I start leaning left, I will turn left... but maybe that's because I know that if I don't turn the steering wheel left, the bike will fall over (to the left). I experimented with unruly turns of the steering wheel when I was a kid, and got my scrapes and bruises. Now that I'm a cautious and sedate adult I'm not anxious to experiment that way. :-)</p>
+
+<p>(I also want to ask why airplanes bank into a turn... they don't have the same issues as a bike, i.e. the bottom part has no special friction against the ground. But that would probably make the question too broad.)</p>
+"
+"26","Velocity of Object from electromagnetic field","<p>I am wondering if someone could provide me with a formula that would tell me at what velocity a projectile can be launched from something using an electromagnetic field. The idea is much like a rail gun or Gauss rifle, but not exactly.</p>
+
+<p>Just looking to find a formula to determine the speed of the projectile.</p>
+
+<p>Thank you,
+Michael Vanderpool</p>
+"
+"27","What is the difference between a measurement and any other interaction in quantum mechanics?","<p>We've learned that the wave function of a particle collapses when we measure a particle's location. If it is found, it becomes more probable to find it a again in the same area, and if not the probability to finding it in the place that was checked decreases dramatically.</p>
+
+<p>My question is about the definition of measurement. What makes a measurement different from any other interaction between two particles (gravity and EM fields for example)?</p>
+
+<p>In reality, almost every particle interacts with any other particle, so shouldn't there be constant collapse of the wave function all the time? If this happens we're right back in classical mechanics, aren't we?</p>
+"
+"29","How to calculate average speed?","<p>I recently encountered a puzzle where a person drove 120 miles at 40mph, then drove back the same 120 miles at 60mph. The average of the speeds is $\frac{40mph+60mph}{2} = 50mph$, so the total trip time should be $\frac{240mi}{50mph} = 4.8 hours$.  But the trip actually took 5 hours.</p>
+
+<p>Why is that, and what is the correct way to calculate the average speed?</p>
+"
+"31","Lay explanation of the special theory of relativity?","<p>What is Einstein's theory of <a href=""http://en.wikipedia.org/wiki/Special_relativity"" rel=""nofollow"">Special relativity</a>, in terms a lay person can follow?</p>
+"
+"32","How to show that the Coriolis effect is irrelevant for the whirl/vortex in the sink/bathtub?","<p>There is a common myth that water flowing out from a sink should rotate in direction governed by on which hemisphere we are; this is shown false in many household experiments, but how to show it theoretically?</p>
+"
+"35","Where do magnets get the energy to repel?","<p>If I separate two magnets whose opposite poles are facing, I am adding energy. If I let go of the magnets, then presumably the energy that I added is used to move the magnets together again.</p>
+
+<p>However, if I start with two separated magnets (with like poles facing), as I move them together, they repel each other. They must be using energy to counteract the force that I'm applying. </p>
+
+<p>Where does this energy come from? </p>
+"
+"37","How to check Einstein-like equations on their correspondence with the real world?","<p>Physicists studying the grounds of physics and some mathematicians often come to a theories which are like a general-relativity, but do not coincide with it. Often these theories contradict the real world. What should one do in order to check one of such theories? Which papers/books should one read in order to be able to understand about some mathematical theories, that ""the mathematical theory is nice, but this is not our world""?</p>
+"
+"41","Impressions of Topological field theories in mathematics","<p>There have been recent results in mathematics regarding Conformal field theories and topological field theories. I am curious about the reaction to such results in the physics community. So I guess a starting place for a question would be something like: Did Atiyah's axiomatization of TQFT capture what physicists feel are important in QFT's? How many more parameters are there to what a physicist would call a QFT or FT in general?</p>
+
+<p>Perhaps I should mention that mathematicians (the ones who dont know any phsyics) think about various Field Theories as things that assign invariants to manifolds that should be sensitive to certain data (depending on the word proceeding field). A lot has been done when you only care about the basic topology of the Manifold you are evalutating your field theory at. Have mathematicians gotten rid of too much for physicists to care? What types of things do physicists want a Field theory to keep track of, what kind of structure on the manifold that is?</p>
+"
+"49","What is a capacitive screen sensing?","<p>What should be a properties of a body so a contact with it can be detected by a capacitive touchscreen or a touchpad? </p>
+"
+"52","How do 2 magnets spin by themselves if positioned precisely?","<p>A few years ago I went to a museum, where there was a board with 2 bar magnets, on a pole each so they could rotate.
+If you rotated them so the lined up with the same poles (N) facing each other, they'd repel spinning until the south poles lined up, then they'd repel and spin so the north poles lined up and so. This was without any extra help, once you lined them up they would just keep spinning by their selves. How exactly is this possible that the 2 magnets kept producing kinetic energy?</p>
+"
+"62","Why is the LHC circular and 27km long?","<p>The LHC in Geneva is a circular accelerator, 27 km long, why is it like that ?</p>
+"
+"68","What causes polarised materials to change colour under stress?","<p>Our physics teacher showed the class a really interesting demonstration. He used two polarised filters in opposite orientations, then he took some antistatic tape and stretched it under the two plates. The resulting image was projected on the wall using an overhead projector unit. </p>
+
+<p>Under stress, the originally clear looking tape (as it looked between the polarised filters) turned all sorts of weird colours, and apparently different colors correlate to different levels of stress. What causes this odd effect?</p>
+"
+"71","What is an intuitive explanation of Gouy phase?","<p>In laser resonators, higher order modes (i.e. TEM01, etc) accumulate phase faster than the fundamental TEM00 mode.  This extra phase is called <a href=""http://www.google.com/search?as_epq=Gouy+phase"" rel=""nofollow"">Gouy phase</a>.  What is an intuitive explanation of this effect?</p>
+
+<p>Gouy predicted and then experimentally verified the existence of this effect long before the existence of lasers.  How did he do it, and what motivated him to think about it?</p>
+"
+"72","Proton therapy in cancer treatment","<p>Why are protons used in cancer therapy ? Is there any advantages compared to classics X-rays treatment or electron treatment ?</p>
+"
+"73","How do physicists use solutions to the Yang-Baxter Equation?","<p>As a mathematician working the area of representation of Quantum groups, I am constantly thinking about solutions of the <a href=""http://en.wikipedia.org/wiki/Yang%E2%80%93Baxter_equation"" rel=""nofollow"">Yang-Baxter equation</a>. In particular, trigonometric solutions. </p>
+
+<p>Often research grants in this area cite this as an ""application"" of their research. This being said, many mathematicians (definitely including myself) don't know why these solutions are important. So, I wonder:</p>
+
+<blockquote>
+  <p>What exactly do physicists do with solutions to the Yang-Baxter Equation once they have them?</p>
+</blockquote>
+"
+"75","Mnemonics to remember various properties of materials","<p>I'm trying to figure out how to remember that</p>
+
+<ul>
+<li>hardness: how resistant it is to deformation</li>
+<li>toughness: how resistant it is to brittle failures</li>
+<li>stress: force on a surface area</li>
+<li>strength: ability to withstand stress without failure</li>
+<li>strain: measurement of deformation of a material</li>
+</ul>
+
+<p>Does anyone know of a mnemonic or easy way? I only know these from googling them, and I'm finding it tricky to remember them.</p>
+"
+"78","Why do neutrons repel each other?","<p>I can understand why 2 protons will repel each other, because they're both positive. But there isn't a neutral charge is there? So why do neutrons repel? (Do they, or have I been misinformed?)</p>
+
+<p>The reason why I'm asking this is because, I've just been learning about neutron stars and how the neutrons are forced (as in, they repel) together according to my teacher (he's a great teacher btw, though what I just said doesn't make it seem so). </p>
+
+<p>So I wondered, why they have to be forced by gravity and not just pushed? </p>
+"
+"79","Is quantum entanglement mediated by an interaction?","<p>You can get two photons entangled, and send them off in different directions; this is what happens in EPR experiments. Is the entanglement then somehow affected if one puts a thick slab of EM shielding material between the entangled photons? Have such experiments been made?</p>
+
+<p>According to EPR experiments measurements of the entangled states are at odds with SR, so based on that I'd assume the answer is ""no""/""don't know"", but any citations would be appreciated!</p>
+"
+"83","How is squeezed light produced?","<p>Ordinary laser light has equal uncertainty in phase and amplitude.  When an otherwise perfect laser beam is incident onto a photodetector, the uncertainty in photon number will produce shot noise with poisson statistics. </p>
+
+<p>However, laser light may be transformed into a 'squeezed state', where the uncertainty is no longer equally divided between the two quadratures, resulting in a reduction of shot noise.  How is this done?</p>
+"
+"85","What's with the very slightly larger mass of the neutron compared to the proton?","<p>Neutron mass: 1.008664 u</p>
+
+<p>Proton mass: 1.007276 u</p>
+
+<p>Why the discrepancy?</p>
+
+<p>On a related note, how does one go about measuring the mass of a neutron or proton, anyway?</p>
+"
+"89","Is Newton's Law of Gravity consistent with General Relativity?","<p>By 'Newton's Law of Gravity', I am referring to</p>
+
+<blockquote>
+  <p><em>The magnitude of the force of gravity is proportional to the product of the mass of the two objects and inversely proportional to their distance squared.</em></p>
+</blockquote>
+
+<p>Does this law of attraction still hold under General Relativity's Tensor Equations?</p>
+
+<p>I don't really know enough about mathematics to be able to solve any of Einstein's field equations, but does Newton's basic law of the magnitude of attraction still hold?</p>
+
+<p>If they are only approximations, what causes them to differ?</p>
+"
+"90","Is it possible that all neutron stars are actually pulsars?","<p>I'm assuming that what I've been told is true:</p>
+
+<p>We can only detect pulsars if their beams of electromagnetic radiation is directed towards Earth.<br>
+That pulsars are the same as neutron stars, only that they emit beams of EM radiation out of their magnetic poles.</p>
+
+<p>So, isn't it possible that neutron stars emit EM radiation in the same fashion as pulsars, just not in the right direction for us to detect it?</p>
+"
+"93","Does Coulomb's Law, with Gauss's Law, imply the existence of only three spatial dimensions?","<p>Coulomb's Law states that the fall-off of the strength of the electrostatic force is inversely proportional to the distance squared of the charges.</p>
+
+<p>Gauss's law implies that a the total flux through a surface completely enclosing a charge is proportional to the total amount of charge.</p>
+
+<p>If we imagine a two-dimensional world of people who knew Gauss's law, they would imagine a surface completely enclosing a charge as a flat circle around the charge.  Integrating the flux, they would find that the electrostatic force <em>should</em> be inversely proportional to the distance of the charges, if Gauss's law were true in a two-dimensional world.</p>
+
+<p>However, if they observed a 1/r^2 fall-off, this implies a two-dimensional world is not all there is.</p>
+
+<p>Is this argument correct?  Does the 1/r^2 fall-off imply that there are only three spatial dimensions we live in?</p>
+
+<p>I want to make sure this is right before I tell this to my friends and they laugh at me.</p>
+"
+"94","What ways are there to measure the local polarization of a laser beam?","<p>Measuring the polarization of a laser beam is a simple enough task if the polarization is the same everywhere. You can even buy commercial polarimeters.</p>
+
+<p>How do you go about it if the light beam has different polarizations in different parts of the transverse plane? One example is a <a href=""http://en.wikipedia.org/wiki/Radial_polarization"">radially polarized</a> beam. More generally, is there a good technique for sampling the local polarization (which might be linear, elliptical, or circular, anywhere on the <a href=""http://en.wikipedia.org/wiki/Poincare_sphere"">Poincaré sphere</a>) in one transverse plane?</p>
+"
+"95","What current alternatives are there to the standard concordance model of cosmology?","<p>The current ""standard model"" or concordance model of cosmology is <a href=""http://en.wikipedia.org/wiki/Lambda-CDM_model"">Lambda CDM</a> which includes late time acceleration due to a cosmological constant, cold dark matter as the missing matter component and an inflationary period at very early times.</p>
+
+<p>What alternative theories are also consistent with current observational data? </p>
+"
+"98","Obtaining isotope stability","<p>For a given isotope, one can obtain the binding energy using the semi-empirical mass formula. </p>
+
+<p>For example, <img src=""http://i.stack.imgur.com/U4is7.png"" alt=""From Codecogs""> has a binding energy of 1782.8 MeV. From this information, how can the likelihood of the isotopes stability be found?</p>
+"
+"100","How is it possible to calculate the energy liberated by a given fission process?","<p>How is it possible to calculate the energy liberated by a given fission process? For example, in the fission of a $^{235}$U induced by capturing a neutron?</p>
+"
+"101","Production of antiproton at the Tevatron","<p>The Tevatron is a proton-antiproton collider; it collides a beam of protons against a beam of antiproton.</p>
+
+<p>I can understand how we obtain the protons, but for the antiprotons ? How are they produced ?</p>
+"
+"102","Is gravity a force and if so what is its opposite?","<ol>
+<li><p>For every force there is an equal force in the opposite direction on another body, correct? </p></li>
+<li><p>So when the Suns gravity acts on Earth where is the opposite and equal force? </p></li>
+<li><p>I also have the same question for centripetal force in a planets orbit. </p></li>
+</ol>
+"
+"111","Book about classical mechanics","<p>I am looking for a book about ""advanced"" classical mechanics. By advanced I mean a book considering directly Lagrangian and Hamiltonian formulation, and also providing a firm basis in the geometrical consideration related to these to formalism (like tangent bundle, cotangent bundle, 1-form, 2-form, etc.).</p>
+
+<p>I have <a href=""http://rads.stackoverflow.com/amzn/click/0521636361"">this book from Saletan and Jose</a>, but I would like to go into more details about the [symplectic] geometrical and mathematical foundations of classical mechanics.</p>
+
+<p>Additional note: A chapter about relativistic Hamiltonian dynamics would be a good thing.</p>
+"
+"115","Mathematica to help for an Hamiltonian problem","<p>I have an Hamiltonian problem whose 2D phase space exhibit islands of stability (elliptic fixed points).</p>
+
+<p>I can calculate the area of these islands in some cases, but for other cases I would like to use Mathematica (or anything else) to compute it numerically.</p>
+
+<p>The phase space looks like that :</p>
+
+<p><img src=""http://i.stack.imgur.com/gCjb0.png"" alt=""alt text""></p>
+
+<p>This is a contour plot make with Mathematica. Could anyone with some knowledge of Mathematica provide a way to achieve this ?</p>
+"
+"122","Is (rest) mass quantized?","<p>I learned today in class that photons and light are quantized.  I also remember that electric charge is quantized as well.  I was thinking about these implications, and I was wondering if (rest) mass was similarly quantized.</p>
+
+<p>That is, if we describe certain finite irreducible masses $x$, $y$, $z$, etc., then all masses are integer multiples of these irreducible masses.</p>
+
+<p>Or do masses exist along a continuum, as charge and light were thought to exist on before the discovery of photons and electrons?</p>
+
+<p>(I'm only referring to invariant/rest mass.)</p>
+"
+"123","How does one measure the mass of a galaxy? And other such large quantities","<p>Trained as a pure mathematician, I see claims about the mass of a galaxy and other such huge measurements that are arrived at experimentally, and I just have to scratch my head.</p>
+
+<p>I know this is a bit of a vague question--but does anyone have a good resource for something like ""measurement in astrophysics"" or an introductory history of how astrophysicists figured out how to make measurements of this kind?</p>
+"
+"127","Why is GNUplot so pervasive in Physics when there are much more modern tools?","<p>First, I want to say upfront that this question need not dissolve into arguments and discussion. This question can and should have a correct answer, please don't respond with your opinions.</p>
+
+<p>GNUplot is very pervasive in Physics research. Many of the plots appearing in things like PRL and JPB are made in GNUplot. Why is this the case. There are much more modern tools for doing these types of graphs, and from my uninformed position, it appears that this would be easier. </p>
+
+<p>One obvious and relevant first point to make is that GNUplot is free and opensource. I respect this, but do not expect that this is the primary reason.</p>
+
+<p>I am hoping for answers that specify what GNUplot can do that can be achieved in other programs efficiently, say Mathematica. If there are none of these, and the reason is simply tradition/resistance to change, that is also fine, but I expect there must be some specific tasks one wishes to perform.</p>
+
+<p>Thanks!</p>
+"
+"129","If the LHC doesn't find the Higgs Boson, what would be the implications for the Standard Model?","<p>What would be the implications to the Standard Model if the Higgs Boson hadn't been found with the LHC?</p>
+
+<p>Also, if the Higgs Boson had not been found with the LHC, would it have been successfully proven as non-existent?  Or would we just wait for an experiment with higher energy ranges?</p>
+"
+"134","Deuterons can share quantum states, but why it is fine for the protons and neutrons inside?","<p>Deuteron (<sup>2</sup>H) is composed of a neutron (spin-1/2) and a proton (spin-1/2), with a total spin of 1, which is a boson. Therefore, it is possible for two deuterons to occupy the same quantum state. </p>
+
+<p>However, the protons and neutrons inside are fermions, so they proton/neutron shouldn't be able the share states due to the exclusion principle. Why it does not happen?</p>
+"
+"139","Speed of neutrinos","<p>Everyone knows it is close to $c$, but how close? What are the recent results?</p>
+"
+"141","Reference request: statistical inference with real world (chaotic) data, e.g. climate/weather data","<p>I'm interested in the process that goes from, for example, huge data sets of temperature, pressure, precipitation etc readings to a model of the atmosphere. I'd like to know about how much relies on a priori knowledge of Navier-Stokes, and how much curve fitting is done.</p>
+
+<p>Some sort of general overview of the process (ideally a fairly accessible one) would be perfect.</p>
+
+<p><strong>Edit</strong></p>
+
+<p>I'm looking for a reference, specifically. I know more or less the science from talking to people who do this stuff, but I would like to have some summary article or book chapter overview I can refer to in written work.</p>
+"
+"142","Boiling water and salt","<p>I would like to have a good understanding of what is happening when you add salt to boiling water.</p>
+
+<p>My understanding is that the boiling point will be higher, thus lengthening the process (obtaining boiling water), but at the same time, the dissolved salt reduce the polarization effect of the water molecules on the heat capacity, thus shortening the process.</p>
+
+<p>Is this competition between these two effects real ? Is it something else ?</p>
+"
+"145","Law for tap water temperature","<p>I was wondering if anyone put together a law to describe the rising temperature of the water coming out of a tap.</p>
+
+<p>The setup is fairly simple: there's a water tank at temperature T, a metal tube of length L connected to it and a tap at the end where temperature is measured. The water flows at P l/s.</p>
+
+<p>Given that the metal tube is at room temperature initially, what law describes the temperature of the water at any instant? What is the limit temperature of the water?</p>
+
+<p>Thanks.</p>
+"
+"147","What are some useful ways to imagine the concept of spin as it relates to subatomic particles?","<p>The answers in this question: <a href=""http://physics.stackexchange.com/questions/1/what-is-spin-as-it-relates-to-subatomic-particles"">What is spin as it relates to subatomic particles?</a>
+do not address some particular questions regarding the concept of spin:</p>
+
+<p>How  are some useful ways to <em>imagine</em> a particle without dimensions - like an electron - to spin?<br>
+How  are some useful ways to <em>imagine</em> a particle with spin 1/2 to make a 360° turn without returning to it's original position (the wave function transforms as: $\Psi \rightarrow -\Psi$).<br>
+When spin is not a classical property of elementary particles, is it a purely relativistic property, a purely quantum-mechanical property or a mixture of both?</p>
+"
+"156","How are the northern lights produced?","<p>Although I've never seen it myself, I hear the <a href=""http://en.wikipedia.org/wiki/Aurora"" rel=""nofollow"">northern lights</a> are a sight to be seen! I know they're related to the Earth's magnetic field but I don't know much more about them. What is the physical phenomenon that creates the northern lights?</p>
+"
+"159","A force's magnitude","<p>In <a href=""http://physics.stackexchange.com/questions/102/is-gravity-a-force-and-if-so-what-is-its-opposite"">this question</a> I asked about gravity and in the answers it came up that the magnitude is equal (of the gravity acting on the Sun and the of the gravity acting on the Earth)</p>
+
+<p>Does magnitude simply mean it's strength?</p>
+"
+"160","What are good mechanics experiments for 10 year olds?","<p>I'm trying to explain elementary mechanics - without the benefits of calculus or even algebra - and struggling. I'd like to find reasonable ways to demonstrate Newton's laws, minimally, and possibly continuing though basic projectile motion, although that may be too much to hope for.</p>
+"
+"166","What new breakthrough energy technologies are close to being realized?","<p>Energy production is one of the burning issues for humankind. There has been some talk about future energy technologies including Fusion, Anti-matter annihilation and Zero-point-energy (from most to least plausible). I'm interested in hearing what people know about developments in the field what they think will be the next real breakthrough in energy technologies.</p>
+"
+"167","How can we make an order-of-magnitude estimate of the strength of Earth's magnetic field?","<p>The source of Earth's magnetic field is a dynamo driven by convection current in the molten core.  Using some basic physics principles (Maxwell's equations, fluid mechanics equations), properties of Earth (mass, radius, composition, temperature gradient, angular velocity), and properties of materials (conductivity and viscosity of molten iron) or other relevant facts, is it possible to estimate the strength of the field to order of magnitude (about one gauss)? </p>
+
+<p>Descriptions I've seen of the geodynamo all refer to extensive numerical computation on a computer, but can we get a rough idea with simple estimation?</p>
+"
+"168","Intuitively, why is a reversible process one in which the system is always at equilibrium?","<p>A process is reversible if and only if it's always at equilibrium during the process.  Why?</p>
+
+<p>I have heard several specific example of this, such as adding weight gradually to a piston to compress the air inside reversibly, by why should it be true in general?</p>
+
+<p>EDIT:
+Here is something that would firmly convince me of this:
+Suppose I have a reversible process that is not always in equilibrium.  Describe a mechanism for exploiting this process to create a perpetual motion machine.</p>
+"
+"173","Is acceleration an absolute quantity?","<p>I would like to know if acceleration is an absolute quantity, and if so why?</p>
+"
+"185","What is needed to claim the discovery of the  Higgs boson?","<p>As I understand the Higg's boson can be discovered by the LHC because the collisions are done at an energy that is high enough to produce it and because the luminosity will be high enough also.</p>
+
+<p>But what is needed to claim a real ""discovery"" ? I guess there is not one event saying ""hey, that's an Higg's boson"" ... I also guess that this was the same kind of situation when the top quark was discovered.</p>
+
+<p>How does it work ? </p>
+
+<p><strong>Edit:</strong></p>
+
+<p>There is a nice introduction to the subject on <a href=""http://cms.web.cern.ch/cms/Physics/HuntingHiggs/CMS.html"">this page of the CMS experiment</a>, and the various ways to detect it, for example through the following process.</p>
+
+<p><img src=""http://i.stack.imgur.com/hTjQC.jpg"" alt=""alt text""></p>
+"
+"186","Finding angular acceleration from torque","<p>We have to analyze this <a href=""http://www.youtube.com/watch?v=Ty-vH42H_7k"" rel=""nofollow"">video</a></p>
+
+<p>Givens:</p>
+
+<ul>
+<li>An applied net torque due to the wind on the windmill is equal to 1500 N*m.</li>
+<li><p>Each (of the 3) propeller props weighs approximately 45 Kg and has a Moment of Inertial equal to about 65% of that of a rod of the same mass being spun about its end.</p></li>
+<li><p>This torque is applied for approximately 45 seconds before the explosion, prior to which the windmill was at rest.</p></li>
+</ul>
+
+<p>Question: What was the angular acceleration caused by the torque?</p>
+
+<p>So here's my attempt at it:
+T=Ia (a is alpha)
+T=ML^2/3 * a * .65 (due to the whole 65% thing. Actually not sure if I should put 3*M for each propeller)</p>
+
+<p>And so this is where I get stuck. I'm not given L, so I'm not sure how to work around this. I could also use $T=1/2MR^2\times a$, but then I dont know R.</p>
+"
+"191","What is the mechanism of magnetic core saturation?","<p>Why does a magnetic core saturate? What is its actual mechanism?</p>
+"
+"193","Best books for mathematical background?","<p>What are the best textbooks to read for the mathematical background you need for modern physics, such as, string theory?</p>
+
+<p>Some subjects off the top of my head that probably need covering:</p>
+
+<ul>
+<li>Differential geometry, Manifolds, etc.</li>
+<li>Lie groups, Lie algebras and their representation theory.</li>
+<li>Algebraic topology.</li>
+</ul>
+"
+"196","What are some scenarios where FTL information transfer would violate causality?","<p>I've always heard people saying, ""Faster than light information transfer can't happen because it would violate causality!  Effects can precede their causes!""</p>
+
+<p>However, I'm trying to think of a situation where this would happen.  I'm sure it has something to do with relativity or something like that.  I sort of understand that people going faster perceive time slower.</p>
+
+<p>Can someone help illuminate this for me by showing a scenario where causality is clearly violated due to FTL information transfer?</p>
+"
+"197","How are forces ""mediated""?","<p>I hope this is the right word to use.</p>
+
+<p>To me, these forces seem kind of fanciful (except for General Relativity and Gravity, which have a geometric interpretation).</p>
+
+<p>For example, how do two charged particles <strong>know</strong> that they are to move apart from each other?</p>
+
+<p>Do they communicate with each other somehow through some means?</p>
+
+<p>I've heard some people tell me that they bounce together messenger photons.  So does one electron receive a messenger photon, go, ""Oh hey, I should move in the direction opposite of where this came from, due to the data in it"", and then move?</p>
+
+<p>Aren't photons also associated with energy, as well?  Does this type of mediation imply that electrons give off energy in order to exert force on other electrons?</p>
+
+<p>Every electron is repelled by every other electron in the universe, right?  How does it know where to send its force mediators?  Does it just know what direction to point it in?  Does it simply send it in all directions in a continuum?  Does that mean it's always giving off photons/energy?</p>
+
+<p>I'm just not sure how to view ""how"" it is that electrons know they are to move away from each other.</p>
+
+<p>These questions have always bugged me when studying forces.  I'm sure the Standard Model has something to shed some light on it.</p>
+"
+"198","Do current models of particle physics explain the chemical properties of elements/compounds?","<p>I have a particle system of seven protons and seven (or sometimes eight) neutrons (each formed by their appropriate quarks, etc.) bound together in a state that can be macroscopically described as a nucleus.  If relevant, there are also about seven electrons that are bound to this arrangement.  These particle systems are usually found in pairs, bound to eachother.</p>
+
+<p>Macroscopically, this can be modeled as the elemental Nitrogen ($N_2$), and in other disciplines (such as chemistry), it is treated as a basic unit.</p>
+
+<p>We know that at a certain level of thermal energy, this system of elementary particles exist inert and packed together in what can be macroscopically described as a ""liquid"".  We know that this is this temperature is about 77.36 Kelvin (measured experimentally) at the most.  Any higher and they start repelling each other and behave as a macroscopic gas.</p>
+
+<p>Is there any way, from simply analyzing the particles that make up this system (the quarks making up fourteen protons and 14-16 neutrons, the electrons) and their interactions due to the current model of particles (is this The Standard Model?), to find this temperature 77.36 Kelvin?</p>
+
+<p>Can we ""derive"" 77.36 K from only knowing the particles and their interactions with each other, in the strong nuclear force and electromagnetic force and weak nuclear force?</p>
+
+<p>If so, what is this derivation?</p>
+"
+"202","Fourier transformation in nature/natural physics?","<p>I just came from a class on Fourier Transformations as applied to signal processing and sound.  It all seems pretty abstract to me, so I was wondering if there were any physical systems that would behave like a Fourier transformation.</p>
+
+<p>That is, if given a wave, a purely physical process that would ""return"" the Fourier transform in some meaningful way.  Like, you gave it a sound wave and you would see, ""Oh, there are a lot of components of frequency 1kHz...a few of frequency 10kHz...some of 500Hz...""</p>
+
+<p>I've seen things happening where, if you put sand on a speaker, the sand would start to form patterns on the speakers that are related to the dominant wavelengths/fundamental frequencies of the sound.  Is this some sort of natural, physical fourier transform?</p>
+"
+"208","Is the distance between the Sun and the Earth increasing?","<p>M = mass of the Sun</p>
+
+<p>m = mass of the Earth</p>
+
+<p>r = distance between the Earth and the Sun</p>
+
+<p>The sun is converting mass into energy by nuclear fusion. </p>
+
+<p>$F = \frac{GMm}{r^2} = \frac{mv^2}{r} \rightarrow r = \frac{GM}{v^2}$</p>
+
+<p>$\Delta E = \Delta M c^2 = (M_{t} - M_{t+\Delta t}) c^2 \rightarrow \Delta M = \Delta E / c^2$</p>
+
+<p>$\rightarrow \frac{\Delta r}{\Delta t} = \frac{G}{v^2 c^2}.\frac{\Delta E}{\Delta t}$</p>
+
+<p>Sun radiates $3.9 × 10^{26} W = \Delta E/\Delta t$</p>
+
+<p>Velocity of the earth $v = 29.8k m/s$</p>
+
+<p>There is nothing that is stopping the earth from moving with the same velocity so for centripetal force to balance gravitational force $r$ must change. </p>
+
+<p>Is $r$ increasing? ($\Delta r/ \Delta t = 3.26070717 × 10^{-10} m/s $)</p>
+"
+"312","Particle physics getting started","<p>I know classical physics, quantum mechanics, special relativity, basic nuclear physics. 
+I would like to get into some particle physics. </p>
+
+<p>I want to get into that higgs boson, lepton, quark things :D </p>
+
+<p>Where to start? Any books, websites, video lectures? </p>
+
+<p>Mathematical rigor required! </p>
+"
+"503","Open problems in special relativity, and non-inertial motion in flat-spacetime, or things that have been discovered recently","<p>What classical open problems are there in special relativity, including questions about non-inertial motion in flat-spacetime, but excluding questions about quantum theories.</p>
+
+<p>Answers can include things which were open problems until recently.</p>
+
+<p>New things in special relativity (and non-gravitational relativity) still seem to be discovered relatively recently:</p>
+
+<p>For instance the book ""A broader view of relativity"" by Jong-Ping Hsu, Leonardo Hsu, contains formulas for transformations between some types of accelerated frames.</p>
+
+<p>Abraham Ungar derived <a href=""http://en.wikipedia.org/wiki/Gyrovector_space"" rel=""nofollow"">formulas</a> for things like proper velocity composition, and for Lorentz transformation composition in terms of velocity and rotation parameters.</p>
+
+<p>So it would be good to have a list of things that we still haven't worked out, or have only been worked out recently, to challenge the assumption that special relativity is all figured out.</p>
+
+<p>(Due to <a href=""http://en.wikipedia.org/wiki/Frame-dragging"" rel=""nofollow"">linear frame-dragging</a> it also seems that the usual saying that GR tends to SR in the limit of negligble gravity should be stated as GR tends to SR for negligble gravity and low acceleration, so any calculations concerning the half-way house of non-inertial relativity between SR and GR would only be valid for low acceleration. Perhaps this should be the definition of non-inertially extended special relativity: acceleration without linear frame-dragging.)</p>
+
+<p>Edit: I +1ed the answer on self-force because it was an interesting general issue, but once we are talking about fields and particles then we are getting away from the question which is really about calculations in the theory of special relativity itself. Once we talk about fields and particles then I guess there are lots of problems and an accurate treatment requires quantum theories which this question is not about.</p>
+"
+"879","Is the G2 Lie algebra useful for anything?","<p>Seems like all the simpler Lie algebras have a use in one or another branch of theoretical physics.  Even the exceptional E8 comes up in string theory.  But G2?   I've always wondered about that one.    </p>
+
+<p>I know only of one false alarm in the 1960s or 1970s before SU(3) quark theory was understood, some physicists tried to fit mesons into a G2 representation.</p>
+"
+"1073","How does classical GR concept of space-time emerge from string theory?","<p>First, I'll state some background that lead me to the question.</p>
+
+<p>I was thinking about quantization of space-time on and off for a long time but I never really looked into it any deeper (mainly because I am not yet quite fluent in string theory). But the recent discussion about <a href=""http://physics.stackexchange.com/questions/937/how-does-gravity-escape-a-black-hole/953#953"">propagation of information in space-time</a> got me thinking about the topic again. Combined with the fact that it has been more or less decided that <a href=""http://meta.physics.stackexchange.com/questions/94/level-of-questions-what-do-we-do-now"">we should also ask graduate level questions here</a>, I decided I should give it a go.</p>
+
+<hr>
+
+<p><em>So, first some of my (certainly very naive) thoughts.</em></p>
+
+<p>It's no problem to quantize gravitational waves on a curved background. They don't differ much from any other particles we know. But what if we want the background itself to change in response to movement of the matter and quantize these processes? Then I would imagine that space-time itself is built from tiny particles (call them <em>space-timeons</em>) that interact by means of exchanging gravitons. I drawed this conclusion from an analogy with how solid matter is built from atoms in a lattice and interact by means of exchanging phonons.</p>
+
+<p>Now, I am aware that the above picture is completely naive but I think it must in some sense also be correct. That is, if there exists any reasonable notion of quantum gravity, it <em>has to</em> look something like that (at least on the level of QFT).</p>
+
+<p>So, having come this far I decided I should not stop. So let's move one step further and assume string theory is correct description of the nature. Then all the particles above are actually strings. So I decided that space-time must probably arise as condensation of huge number of strings. Now does this make any sense at all? To make it more precise (and also to ask something in case it doesn't make a sense), I have two questions:</p>
+
+<blockquote>
+  <ol>
+  <li><p>In what way does the classical space-time arise as a limit in the string theory? Try to give a clear, conceptual description of this process. I don't mind some equations, but I want mainly ideas.</p></li>
+  <li><p>Is there a good introduction into this subject? If so, what is it? If not, where else can I learn about this stuff?</p></li>
+  </ol>
+</blockquote>
+
+<p>Regarding 2., I would prefer something not too advanced. But to give you an idea of what kind of literature might be appropriate for my level: I already now something about classical strings, how to quantize them (in different quantization schemes) and some bits about the role of CFT on the worldsheets. Also I have a qualitative overview of different types of string theories and also a little quantitative knowledge about moduli spaces of Calabi-Yau manifolds and their properties.</p>
+"
+"1075","Home experiment to estimate Avogadro's number?","<p>How to get an approximation of Avogadro or Boltzmann constant through experimental means accessible by an hobbyist ?</p>
+"
+"1077","How can I stand on the ground? EM or/and Pauli?","<p>There is this famous example about the order difference between gravitational force and EM force. All the gravitational force of Earth is just countered by the electromagnetic force between the electrons on the surface of my feet and the ground.</p>
+
+<p>But also wave-function of electrons(fermions) do not overlap each other due to Pauli exclusion principle.</p>
+
+<p>So which one is the true reason of me not flopping inside the earth forever? Is it only one of them(my guess is Pauli exclusion) or is it both?</p>
+"
+"1112","Modified Maxwell's equations","<p>In 1985, Harmuth wrote that Maxwell's equations are incompatible with causality, and overcame the problem by adding a term for magnetic dipole currents, and as a consequence the problem of infinite zero-point energy and renormalization disappears. At least according to Harmuth's book:</p>
+
+<p>Calculus of finite differences in quantum electrodynamics
+ By Henning F. Harmuth, Beate Meffert</p>
+
+<p>The foreword is readable at <a href=""http://books.google.com/books?id=EQFENquY6fwC"">http://books.google.com/books?id=EQFENquY6fwC</a></p>
+
+<p>Are Harmuth's modifications generally accepted by the physics community as a more accurate description of reality than the unmodified equations ? </p>
+"
+"1869","What reasons are there to suspect string theory may be an incorrect theory?","<p>It's a truism that in science it is at least as important to state the reasons why a theory or idea might be wrong, as to state the reasons why it is might be correct.  For example, early renormalization methods made experimental predictions that were very accurate, but the inventor's famously worried for decades about the conceptual problems of divergences; and many of their papers/articles/books on the subject include a long discussion about how acutely worried they were that their method for handling divergences was deeply flawed somehow.</p>
+
+<p>My intention with this post is not to engage any user in a debate about whether string theory is true or not.  I think anyone who takes string theory seriously should be happy to acknowledge as clearly as possible all the potential theoretical issues/problems with the theory. </p>
+
+<p>Therefore I would like to ask, what are the major theoretical problems which would lead a reasonable person to be worried that string theory is not an accurate theory?  I am excluding the fact that string theory has made no (major) predictions that have been confirmed, I am only interested in conceptual and theoretical ideas which might discredit the theory.</p>
+
+<p>Please keep all answers to one issue per post.</p>
+"
+"2147","Controllable faster-than-light phase velocity","<p>This is not another question about faster-than-light travel or superluminal communication. I totally appreciate the speed limit capped by physical laws (or theories.) </p>
+
+<p>Just curious, since there is no limit for phase velocity, is there any way to generate a wave with controllable phase velocity higher than speed of light?</p>
+"
+"2594","Steps for going from Polyakov action to low-energy effective action (SUGRA?) in String Theory","<p>A lot of string-theory questions have been asked here. This one is, hopefully, different in that this inquiry is specific and the expected answer would be more mathematical than philosophical in character.</p>
+
+<p>To give some context, I'm familiar with LQG, QFT etc. I'm a beginner in CFT and string-theory. On reading papers on AdS/CFT and String Theory the following sentence often appears: ""<strong>The low-energy effective action for $x$ dimensional ST of type $y$ reduces to that of supergravity (SUGRA) in $z$ dimensions with matter fields of types $a$, $b$ and $c$</strong>"".</p>
+
+<p>The $64,000 dollar question any noob, such as me, wants answered is what are the mathematical/technical steps or arguments which lead us from the fundamental action of string-theory (the Polyakov/Nambu-Goto action) to a low-energy effective description. Of course, I might be asking a question for which the only concise answer is: ""<em>go read GSW</em>"". Here's hoping otherwise ;)</p>
+"
+"10233","Proving that the free energy is extensive","<p>If I have two system of an Ideal gas $A$ and $B$ each of these system has a  partition function:</p>
+
+<p>$Z_{A,B} = \left ( \frac{V_{A,B}}{\lambda_T} \right )^{N_{A,B}}$</p>
+
+<p>Where:</p>
+
+<p>$\lambda_T = \left ( \frac{m}{2\pi\beta \hbar } \right )^{\frac{1}{2}} $</p>
+
+<p>The free energy is:</p>
+
+<p>$F_{A,B} = -kT \ln \left ( Z_{A,B} \right ) = -kT N_{A,B}\ln \left (\frac{V_{A,B}}{\lambda_T}\right)$</p>
+
+<p>For the free energy to be extensive the following must be true:</p>
+
+<p>$F_{A} + F_B = F_{A+B} \Rightarrow Z_A \cdot Z_B = Z_{A+B}$</p>
+
+<p>However:</p>
+
+<p>$Z_A \cdot Z_B = \left (\frac{V_A}{\lambda_T} \right )^{N_A} \left ( \frac{V_B}{\lambda_T} \right)^{N_B}$</p>
+
+<p>and:</p>
+
+<p>$Z_{A+B} = \left ( \frac{V_{A+B}}{\lambda_T} \right )^{N_A + N_B}$</p>
+
+<p>So, for $Z_A + Z_B = Z_{A+B}$ to be true $V_A^{N_A} V_{B}^{N_B} = \left(V_A + V_B \right)^{N_A + N_B}$ must be true as well but this isn't true for any system.</p>
+
+<p>Since we cannot create energy by mixing two containers of Argon in the same pressure and temperature, something in my understanding is wrong. Where is my fault? </p>
+"
+"35528","Collision between Neutron stars and Black holes","<p>When two neutron stars or black-holes come closer and closer, their angular velocity increases with decrease of distance and they start to revolve around a constant center with high relativistic speeds due to the influence of gravity... At last,</p>
+
+<ul>
+<li>Neutron-stars <em>collide</em> to produce a giant explosion...</li>
+<li>Black-holes <em>collide</em> to form super-massive black-holes...</li>
+</ul>
+
+<p>(Even two neutron stars merge to form black-holes, based on the answer)</p>
+
+<p>So, What are observed during and after this collision..? Magnetic fields &amp; short GRBs only..?</p>
+"
+"38823","atmospheric phenomenon? What causes condensation trails to converge?","<p>This air plane just caught my eye. Two contrails apparently are flowing backward, slightly off-centered and then ultimately converge, giving the overall shape of a very narrow rhomboid parallelogram, with one diagonal being on the order of about four plane-width's.</p>
+
+<p>Please explain what I am seeing here as detailed as possible. </p>
+
+<p>Some of you may even know what class of plane this may be and thus infer the scales involved, to give some hints of the scale of the contrail under investigation?</p>
+
+<p>I looked up other pictures, and if I am not mistaken, most contrails are slightly angled outward. Is this by design or due to expansion and convection of the gases involved? Can someone confirm this?</p>
+
+<p><img src=""http://i.stack.imgur.com/yzKW3.jpg"" alt=""enter image description here""></p>
+
+<p><strong>Edit</strong>:</p>
+
+<ul>
+<li><p>I did observe the described contrail-shape, with quite some consistency, over varying angles of ascension and declination.</p></li>
+<li><p>I have never heard of conspiracies regarding contrails (e.g. <a href=""http://en.wikipedia.org/wiki/Chemtrail_conspiracy_theory"" rel=""nofollow"">chemtrails</a>) until after writing this post. It shows that good, hard explanations for <em>atmospheric contrail phenomena</em> are in demand.</p></li>
+<li><p>Given the right circumstances (large distances) some apparent contrail convergence can be attributed to <a href=""http://d1027732.mydomainwebhost.com/articles/articles/scool%20contrails.htm"" rel=""nofollow"">perspective alone</a>.</p></li>
+</ul>
+
+<p><strong>Links</strong>:</p>
+
+<ul>
+<li><p><a href=""http://contrailscience.com/"" rel=""nofollow"">Contrail Science</a> (impressive resource, which I just peeked at so far)</p></li>
+<li><p><a href=""http://d1027732.mydomainwebhost.com/articles/articles/scool%20contrails.htm"" rel=""nofollow"">Contrail gallery</a></p></li>
+<li><p>Contrails - clouds (ppt)</p></li>
+<li><p><a href=""http://www.es.lancs.ac.uk/hazelrigg/amy/Introduction/The%20Science.htm"" rel=""nofollow"">http://www.es.lancs.ac.uk/hazelrigg/amy/Introduction/The%20Science.htm</a></p></li>
+<li><a href=""http://www.epa.gov/oms/aviation.htm"" rel=""nofollow"">http://www.epa.gov/oms/aviation.htm</a></li>
+<li><a href=""http://www-pm.larc.nasa.gov/newcontrail.html"" rel=""nofollow"">http://www-pm.larc.nasa.gov/newcontrail.html</a></li>
+<li><a href=""http://www.epa.gov/oar/oap.html"" rel=""nofollow"">http://www.epa.gov/oar/oap.html</a></li>
+<li><a href=""http://www.history.com/shows.do?episodeId=464914&amp;action=detail"" rel=""nofollow"">http://www.history.com/shows.do?episodeId=464914&amp;action=detail</a></li>
+<li><a href=""http://mynasadata.larc.nasa.gov/P4.html"" rel=""nofollow"">http://mynasadata.larc.nasa.gov/P4.html</a></li>
+</ul>
+"
+"41132","Fitting of exponential data gives me a constant function","<p>I conducted an experiment, where a capacitor is discharged over a (big) resistor for $t$ seconds and then the remaining charge is measured with a ballistic galvanometer. The data I have is:</p>
+
+<pre><code>t       phi
+-----------
+1.00    65
+1.75    60
+1.75    61
+2.28    56
+3.13    52
+3.94    48
+5.16    44
+5.85    40
+13.35   20
+</code></pre>
+
+<p>When I plot this data (gnuplot here) in a semilog plot, I get this:</p>
+
+<p><img src=""http://wstaw.org/m/2012/10/18/latex-edit1.png"" alt=""""></p>
+
+<p>As far as I can tell, those points lie on a straight line, which would then be an exponential function. And that is what I would expect as well, since this should be</p>
+
+<p>$$Q(t) = Q_0 \exp\left(\frac{-t}{RC}\right)$$</p>
+
+<p>However, when I fit it using this gnuplot snippet, I get fit parameters that make no sense to me.</p>
+
+<pre><code>f1(x) = a * exp(-x/g);
+fit f1(x) ""test.dat"" using 1:2:3 via a,g
+</code></pre>
+
+<p>Yields:</p>
+
+<pre><code>Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 49.5555          +/- 7.647        (15.43%)
+g               = -3.43204e+07     +/- 3.281e+13    (9.561e+07%)
+</code></pre>
+
+<p>I tried this same thing in Octave and Grace as well, they all give me this constant function.</p>
+
+<p>How can I get a meaningful fit for this, other than trying to fit it by hand?</p>
+"
+"54415","Higgs-Boson/Graviton","<p>The Higgs boson gives particles mass. And the graviton is the theoretical force-carrier of gravity. Gravity depends on mass. So if the Higgs Boson gives things mass, it therefore gives them gravity. Is the Higgs Boson the same thing as a Graviton? Or is there a difference? The only thing I know is that the Higgs Field is something very different from the Gravitational Field. Yet, I'm not satisfied with that fact. I want to know why the Higgs Boson is not the Graviton.</p>
+"
+"59637","Demonstrating Quantum effects with home experiments using green diode laser","<p>I would like to preform home experiments to demonstrate quantum effects to my kids. I need a list of experiments on Laser photons that could be easily conducted at home to demonstrate quantum mechanical effects. I'm not interested in experiments that can be explained by considering light as electromagnetic waves.</p>
+
+<p>I would appreciate helpful suggestions or a good reference.</p>
+"
+"71257","Book recommendations for fluid dynamics self study","<p>I have my bachelors degree in engineering science: computer science, option electrotechnic. I have a good understanding of basic mechanics and dynamics, calculus (differential equations).</p>
+
+<p>The books I'm now having a look at are:</p>
+
+<ul>
+<li><p><a href=""http://eu.wiley.com/WileyCDA/WileyTitle/productCd-EHEP001805.html"" rel=""nofollow""><em>Fox and McDonald's Introduction to Fluid Mechanics, 8th Edition</em></a></p></li>
+<li><p><a href=""http://rads.stackoverflow.com/amzn/click/0073398101"" rel=""nofollow""><em>Fundamentals of Aerodynamics, John D. Anderson</em></a></p></li>
+</ul>
+
+<p>What book do you recommend for studying fluid dynamics on my own and why?</p>
+"
+"105957","Home experiment question","<p>I want to make a home experiment where I roughly explain the phenomenon of water remaining in a straw if you close one end of the straw.</p>
+
+<p>So I'm thinking that the weight of the water is pulling it down, but the pressure underneath the straw is keeping it up. If there was no finger on the top, the pressure would also be pushing it down so it would fall.</p>
+
+<p>Would this be a valid way to show this?</p>
+
+<p>Mass of water: volume*density: $\pi r^2*H*1000$</p>
+
+<p>Weight of water: $\pi r^2*H*1000*9.8$</p>
+
+<p>Pressure*area = force</p>
+
+<p>force= $101325*\pi r^2$ (weight of water)</p>
+
+<p>And I somehow want to combine this with the upward force of pressure in the room.</p>
+
+<p>Am I on the right track?</p>
+"
+"136587","Modeling a wine cooler heat loss to ambient","<p>I'm trying to model the steady state heat loss to ambient, in W, for a wine cooler similar to the following:</p>
+
+<p><img src=""http://i.stack.imgur.com/PfAGK.jpg"" alt=""Wine cooler""></p>
+
+<p>For the modeling, I will need the following variables/constants:</p>
+
+<ul>
+<li>$T_a$ [K]: Ambient temperature (typically 300 K)</li>
+<li>$T_c$ [K]: Temperature inside the wine cooler enclosure (typically 280-290 K)</li>
+<li>$H, W, D$ [m]: height, width and depth of the cooler (facing from the front of the cooler, about the same perspective as the picture above)</li>
+<li>$L_w$ [m]: thickness of the thermal isolation material on the walls</li>
+<li>$k_w$ [W/(m K)]: thermal conductivity of the isolation material on the walls</li>
+<li>$Q_w$ [W]: heat conducted through the walls</li>
+<li>$L_g$ [m]: thickness of the cooler's front glass window</li>
+<li>$k_g$ [W/(m K)]: thermal conductivity of the front glass window</li>
+<li>$Q_g$ [W]: heat conducted through the front glass window</li>
+<li>$Q_c$ [W]: total heat conducted through the walls and front glass window</li>
+<li>$\varepsilon$: emissivity of the wine cooler walls</li>
+<li>$\sigma = 5.67 \times 10^{-8}$ [W/(m$^2$ K$^4$)]: Stefan-Boltzmann constant</li>
+<li>$Q_r$ [W]: heat loss by radiation</li>
+<li>$Q$ [W]: total heat loss to ambient</li>
+</ul>
+
+<p>First define $H' = H - 2L_w$, $W' = W - 2L_w$ and $D' = D - 2L_w$, which are the dimensions of the thermal isolation walls, disregarding corners (to simplify the analysis).</p>
+
+<p>Applying Fourier's law of heat conduction to the walls of the cooler, we get:</p>
+
+<p>$$
+Q_w = k_w \frac{2 H' D' + 2 W' D' + H' W'}{L_w} (T_a - T_c)
+$$</p>
+
+<p>Again, applying Fourier's law but now to the front glass window, we get</p>
+
+<p>$$
+Q_g = k_g \frac{H' W'}{L_g} (T_a - T_c)
+$$</p>
+
+<p>The total heat loss by conduction is thus</p>
+
+<p>$$
+Q_c = Q_w + Q_g
+$$</p>
+
+<p>However, since there is a front glass window on the cooler, we should also consider the effect of heat transfer by radiation. This is where it gets hard for me. This depends on the area of emission, which I understand to be the five internal walls of the cooler. Assuming this, we get:</p>
+
+<p>$$
+Q_r = \varepsilon \sigma (2 H' D' + 2 W' D' + H' W') (T_a^4 - T_c^4)
+$$</p>
+
+<p>$$
+Q = Q_c + Q_r = Q_w + Q_g + Q_r
+$$</p>
+
+<p>The problem is that I have a wine cooler with a <a href=""http://www.thermonamic.com/TEC1-12706-English.pdf"" rel=""nofollow"">TEC1-12706</a> thermoelectric module connected to a constant 12 V voltage source. From the datasheet (linked above), assuming a $\Delta T = 10$ K (a strict lower bound to the actual $\Delta T$), the maximum heat pumping capability, reading from the graph, would be somewhat below 50 W (I estimate 48-49 W). The actual $\Delta T$ should be a little higher due to the heatsink being at a higher than ambient temperature, and hence the heat pumping capability should be smaller than the estimate above.</p>
+
+<p>However, plugging in $T_a = 300.15$ K and $T_c = 290.15$ K (values that can actually be attained in practice by this cooler), and assuming $\varepsilon = 0.9$ since the inside walls are painted black, I get $Q_r = 47.1$ W. Hence all of the TEC's heat pumping capability should be used to pump the heat loss due to radiation, with nothing left to pump the heat loss due to conduction. This is clearly not the case as the wine cooler actually works at the claimed parameters, so I've got an error somewhere in my calculations. I am assuming it has to do with the fact that the front glass window is not perfectly transparent, so it should reflect some of the incoming radiation. However, I don't know how to account for this -- just multiply $Q_r$ by a constant representing the percentage of reflected radiation?</p>
+
+<p>So here are my questions:</p>
+
+<ul>
+<li>Is the modeling of heat conduction correct?</li>
+<li>How should I fix my model of heat loss by radiation?</li>
+</ul>
+"
+"249823","Meaning and logic of Einstein's train thought experiment","<p>This seems to be a recurrent topic but I wasn't able to find any satisfactory discussion about this tought experiment.</p>
+
+<p>I will quote the original story from <a href=""http://www.bartleby.com/173/9.html"" rel=""nofollow"">Einstein's</a> and put my doubts inside:</p>
+
+<blockquote>
+  <p>Up to now our considerations have been referred to a particular body of reference, which we have styled a “railway embankment.” We suppose a very long train travelling along the rails with the constant velocity v and in the direction indicated in Fig. 1.
+  [...]</p>
+  
+  <p>Are two events (e.g. the two strokes of lightning A and B) which are simultaneous with reference to the railway embankment also simultaneous relatively to the train? We shall show directly that the answer must be in the negative. 
+   <a href=""http://i.stack.imgur.com/5WjS0.gif"" rel=""nofollow""><img src=""http://i.stack.imgur.com/5WjS0.gif"" alt=""FIG. 1.""></a></p>
+  
+  <p>When we say that the lightning strokes A and B are simultaneous with respect to the embankment, we mean: the rays of light emitted at the places A and B, where the lightning occurs, meet each other at the mid-point M of the length A —> B of the embankment. </p>
+</blockquote>
+
+<ol>
+<li><p>This definition of simultaneity seems indisputable for the embankment reference but what about the train reference? It seems to me that it would be suitable also for the train only if we assume invariance of the speed of light otherwise we should take into account the relative speed between the sources of light and the train. (It should be noted that the argument will not use invariance of speed of light later on so this seems to be the only possible place for this assumption).</p></li>
+<li><p>So which is the physical theoretic model that we are using here? Classical mechanics? It wouldn't be consistent with the definition of simultaneity (as I said above). Maybe we are considering a hybrid model derived from classical-mechanics where we drop Galilean relativity and introduce the additional axiom of invariance of speed of light? In the latter case how can we be sure that this model does make sense? Isn't this hybrid model inherently inconsistent/incoherent? From inconsistent models we can derive any contradiction.</p></li>
+</ol>
+
+<blockquote>
+  <p>But the events A and B also correspond to positions A and B on the train. Let M' be the mid-point of the distance A —> B on the travelling train. Just when the flashes 1 of lightning occur, this point M' naturally coincides with the point M, but it moves towards the right in the diagram with the velocity v of the train. </p>
+</blockquote>
+
+<ol start=""3"">
+<li>If we are assuming invariance of speed of light then ""$M'$ moves towards the right"" only within the embankment reference. From the train reference $M'$ would <em>not</em> move ($M$ would in the opposite direction). Why do we choose this particular reference and not any other inertial reference?</li>
+</ol>
+
+<blockquote>
+  <p>If an observer sitting in the position M’ in the train did not possess this velocity, then he would remain permanently at M, and the light rays emitted by the flashes of lightning A and B would reach him simultaneously, i.e. they would meet just where he is situated. Now in reality (considered with reference to the railway embankment) he is hastening towards the beam of light coming from B, whilst he is riding on ahead of the beam of light coming from A. </p>
+</blockquote>
+
+<ol start=""4"">
+<li>Wouldn't this description violate the assumption of invariance of the speed of light? It would amount to say - as far as I can see - that from the (inertial) reference of the train the light traveled equal distances with different times. Are we assuming invariance or not? </li>
+</ol>
+
+<blockquote>
+  <p>Hence the observer will see the beam of light emitted from B earlier than he will see that emitted from A. Observers who take the railway train as their reference-body must therefore come to the conclusion that the lightning flash B took place earlier than the lightning flash A. </p>
+</blockquote>
+
+<ol start=""5"">
+<li>It seems to me that from the reference of the train the situation is completely symmetric (unless we are assuming there is a special reference like aether, are we?): they are two inertial references with a relative speed and the light sources have $0$ initial velocity for both (i.e. it moves at $v=c$ in both references), so both observer should have the same experience. Putting it in another way: we could just think that we have a stationary train and a moving ""rest of the world"" and then we could riproduce the same reasoning we did before arriving to the conclusion that the events are simultaneous for the observer on the ""static"" train and <em>not</em> simultaneous for the observer on the moving embankment. What is there that breaks the symmetry? </li>
+</ol>
+
+<hr>
+
+<p><strong>Some remarks after understanding better</strong></p>
+
+<ol>
+<li><p>There is not a ""model"" for the dynamics but there are some principles or axioms that we can imagine will be part of the RR model and which have a small intersection with classical mechanics so it is reasonable to expect they will not be inconsistent/contradictory</p></li>
+<li><p>For some reason I have been thinking that the <em>effective</em> actual simultaneity of the bolts was something that was stated or implied in advance with the description of the setting, but Einstein ask us to stop thinking in terms of absolute time references. This is why I have been thinking that there is a symmetry in the descriprion of the events from the two references.</p></li>
+<li><p>I think there is something slightly misleading in the final part of the argument when Einsten says:</p>
+
+<blockquote>
+  <p>Observers who take the railway train as their reference-body <em>must therefore come to the conclusion that the lightning flash B took place earlier than the lightning flash A</em>.</p>
+</blockquote></li>
+</ol>
+
+<p>In fact the only concept we are considering here is a purely techical definition of ""simultaneity"" and the observer just notice that this definition doesn't apply in his reference, but this is not an <em>actual</em> simultaneity (or actual non-simultaneity) in the sense we are familiar with (with a reference to absolute time): it is just a completely new definition and we just discovered that it defines a property that depends on the reference.</p>
+"
+"264269","Why can the 2p0 to 1s transition in hydrogen with dipole interaction not be solved without splitting into x,y,z polarisation?","<p>The $2p_0$ and $1s$ wavefunctions for hydrogen;</p>
+
+<p>$ \psi_{2p_0}  = \dfrac{1}{4\sqrt{2\pi}} \left(\dfrac{Z}{a_b}\right)^{\frac{3}{2}} \dfrac{Z r}{a_b} e^{\frac{-Zr}{2a_b}} \cos(\theta) $</p>
+
+<p>$ \psi_{1s}  = \dfrac{1}{\sqrt{\pi}} \left(\dfrac{Z}{a_b}\right)^{\frac{3}{2}} e^{\frac{-Zr}{a_b}}  $</p>
+
+<p>Then calculating the dipole element;
+splitting the dipole $-er$ into x,y,z components gives you;</p>
+
+<p>$ -e\langle \psi_{2p_0}|x|\psi_{1s}\rangle =0 $</p>
+
+<p>$ -e\langle \psi_{2p0}|y|\psi_{1s}\rangle = 0 $</p>
+
+<p>$ -e\langle \psi_{2p0}|z|\psi_{1s}\rangle = -e2^{\frac{7}{2}} a_{b}\frac{1}{3^5} $</p>
+
+<p>of which the $x$ and $y$ are zero, due to symmetry, and the z component is non zero due to being asymmetric.</p>
+
+<p>Why can the dipole element not be calculated by using:
+$ -e\langle \psi_{2p0}|r|\psi_{1s}\rangle $
+?</p>
+
+<p>As;
+$ -e\langle \psi_{2p0}|r|\psi_{1s}\rangle =  -e\int^{-\infty}_{-\infty}\frac{1}{4\sqrt{2\pi}} (\frac{Z}{a_b})^{\frac{3}{2}} \frac{Z r}{a_b} e^{\frac{-Zr}{2a_b}} \cos(\theta)r \frac{1}{\sqrt{\pi}} (\frac{Z}{a_b})^{\frac{3}{2}} e^{\frac{-Zr}{a_b}} d^{3}r $</p>
+
+<p>$= \frac{-e}{4\pi\sqrt{2}}\frac{Z}{a_b}^{4} \int^{\infty}_{-\infty} r^2 e^{-\frac{3Zr}{2a_b}} \cos(\theta) d^{3}r $</p>
+
+<p>Then changing the integral to spherical polar coordinates;</p>
+
+<p>$= \frac{-e}{4\pi\sqrt{2}}\frac{Z}{a_b}^{4} \int^{\infty}_{0}\int^{\pi}_{0}\int^{2\pi}_{0} r^2 e^{-\frac{3Zr}{2a_b}}\cos(\theta)r^{2}\sin(\theta) drd\theta d\phi $</p>
+
+<p>$= \frac{-e}{4\pi\sqrt{2}}\frac{Z}{a_b}^{4} \int^{\infty}_{0}\int^{\pi}_{0}\int^{2\pi}_{0} r^4 e^{-\frac{3Zr}{2a_b}} \cos(\theta)\sin(\theta) dr d\theta d\phi $</p>
+
+<p>Which of course, evaluates to zero because $\int^{\pi}_{0}\sin(\theta)\cos(\theta) = 0$ 
+But we know that the 2p0 to 1s transition does happen.</p>
+
+<p>So the question is, why is setting the dipole to $-er$ wrong?</p>
+"
